@@ -1,1 +1,0 @@
-# Windows-Antrea-clean-script-installation
